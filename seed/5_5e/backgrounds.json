@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Acolyte",
+    "edition": "5.5e",
+    "description": "You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. You performed sacred rites and learned the lore of your faith.",
+    "skill_proficiencies": ["Insight", "Religion"],
+    "tool_proficiencies": ["Calligrapher's Supplies"],
+    "languages": [],
+    "equipment": "A holy symbol, a prayer book or prayer wheel, a set of common clothes, a pouch containing 8 gp",
+    "feature": {
+      "name": "Origin Feat: Magic Initiate (Cleric)",
+      "description": "You gain the Magic Initiate feat with the Cleric spell list. You learn two cantrips and one 1st-level spell from the Cleric spell list."
+    }
+  },
+  {
+    "name": "Artisan",
+    "edition": "5.5e",
+    "description": "You began moiling for your livelihood in a trade, learning the skills and secrets of a craft. You worked long hours and built a reputation for quality among your customers.",
+    "skill_proficiencies": ["Investigation", "Persuasion"],
+    "tool_proficiencies": ["Artisan's Tools (one of your choice)"],
+    "languages": [],
+    "equipment": "A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of traveler's clothes, a pouch containing 15 gp",
+    "feature": {
+      "name": "Origin Feat: Crafter",
+      "description": "You gain the Crafter feat. You have proficiency with three different Artisan's Tools of your choice, crafting discounts, and resourcefulness in creating items."
+    }
+  },
+  {
+    "name": "Charlatan",
+    "edition": "5.5e",
+    "description": "Once combated you wandered from place to place, peddling false wares and making bold claims that were never true. You learned to read people and spin tales to earn their trust.",
+    "skill_proficiencies": ["Deception", "Sleight of Hand"],
+    "tool_proficiencies": ["Forgery Kit"],
+    "languages": [],
+    "equipment": "A set of fine clothes, a disguise kit, tools of the con (ten stoppered bottles, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), a pouch containing 15 gp",
+    "feature": {
+      "name": "Origin Feat: Skilled",
+      "description": "You gain the Skilled feat. You gain proficiency in any combination of three skills or tools of your choice."
+    }
+  },
+  {
+    "name": "Criminal",
+    "edition": "5.5e",
+    "description": "You eked out a living by breaking the law. You have contacts within the criminal underworld and a knack for getting away with things.",
+    "skill_proficiencies": ["Sleight of Hand", "Stealth"],
+    "tool_proficiencies": ["Thieves' Tools"],
+    "languages": [],
+    "equipment": "A crowbar, a set of dark common clothes including a hood, a pouch containing 15 gp",
+    "feature": {
+      "name": "Origin Feat: Alert",
+      "description": "You gain the Alert feat. You gain a bonus to Initiative equal to your Proficiency Bonus, you can't be Surprised, and creatures you can't see don't gain Advantage on attack rolls against you."
+    }
+  },
+  {
+    "name": "Entertainer",
+    "edition": "5.5e",
+    "description": "You spent much of your youth following combating troupes, performing in taverns, or busking in the streets. Your performances drew crowds and earned you admirers.",
+    "skill_proficiencies": ["Acrobatics", "Performance"],
+    "tool_proficiencies": ["Musical Instrument (one of your choice)"],
+    "languages": [],
+    "equipment": "A musical instrument (one of your choice), a costume, a mirror, a set of common clothes, a pouch containing 11 gp",
+    "feature": {
+      "name": "Origin Feat: Musician",
+      "description": "You gain the Musician feat. You gain proficiency with three Musical Instruments, and after finishing a Short or Long Rest you can play a song that gives Heroic Inspiration to allies."
+    }
+  },
+  {
+    "name": "Farmer",
+    "edition": "5.5e",
+    "description": "You grew up working the land, tending livestock, or harvesting crops. The rhythms of nature set the pace of your life and taught you the value of patience and hard work.",
+    "skill_proficiencies": ["Animal Handling", "Nature"],
+    "tool_proficiencies": ["Carpenter's Tools"],
+    "languages": [],
+    "equipment": "A sickle, a set of common clothes, a pouch containing 10 gp",
+    "feature": {
+      "name": "Origin Feat: Tough",
+      "description": "You gain the Tough feat. Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat, and by 2 each time you gain a character level thereafter."
+    }
+  },
+  {
+    "name": "Guard",
+    "edition": "5.5e",
+    "description": "You served in a guard force, watching over a specific location like a town gate, a## noble estate, or a stretch of wilderness border. Discipline and vigilance were your constant companions.",
+    "skill_proficiencies": ["Athletics", "Perception"],
+    "tool_proficiencies": ["Gaming Set (one of your choice)"],
+    "languages": [],
+    "equipment": "A spear, a set of common clothes, a belt pouch containing 12 gp",
+    "feature": {
+      "name": "Origin Feat: Alert",
+      "description": "You gain the Alert feat. You gain a bonus to Initiative equal to your Proficiency Bonus, you can't be Surprised, and creatures you can't see don't gain Advantage on attack rolls against you."
+    }
+  },
+  {
+    "name": "Guide",
+    "edition": "5.5e",
+    "description": "You came of age outdoors, far from settled lands. Your home could have been a hut in the wilderness, a farm on the frontier, or a trading post along a road through untamed territory.",
+    "skill_proficiencies": ["Stealth", "Survival"],
+    "tool_proficiencies": ["Cartographer's Tools"],
+    "languages": [],
+    "equipment": "A bedroll, a mess kit, a set of traveler's clothes, a pouch containing 3 gp",
+    "feature": {
+      "name": "Origin Feat: Magic Initiate (Druid)",
+      "description": "You gain the Magic Initiate feat with the Druid spell list. You learn two cantrips and one 1st-level spell from the Druid spell list."
+    }
+  },
+  {
+    "name": "Hermit",
+    "edition": "5.5e",
+    "description": "You lived in seclusion for years, perhaps in a sheltered community or entirely alone, seeking spiritual enlightenment or understanding of the natural world.",
+    "skill_proficiencies": ["Medicine", "Religion"],
+    "tool_proficiencies": ["Herbalism Kit"],
+    "languages": [],
+    "equipment": "A scroll case full of notes, a winter blanket, an herbalism kit, a set of common clothes, a pouch containing 5 gp",
+    "feature": {
+      "name": "Origin Feat: Healer",
+      "description": "You gain the Healer feat. When you use a Healer's Kit to stabilize a dying creature, that creature also regains 1d6 + 4 Hit Points. You can also use this feat to tend to an ally during a Short Rest."
+    }
+  },
+  {
+    "name": "Merchant",
+    "edition": "5.5e",
+    "description": "You were part of a merchant operation, buying and selling goods across ports, trade routes, or market squares. You learned the language of commerce and the art of negotiation.",
+    "skill_proficiencies": ["Animal Handling", "Persuasion"],
+    "tool_proficiencies": ["Navigator's Tools"],
+    "languages": [],
+    "equipment": "A set of fine clothes, a letter of introduction from a trade guild, a pouch containing 22 gp",
+    "feature": {
+      "name": "Origin Feat: Lucky",
+      "description": "You gain the Lucky feat. You have a number of Luck Points equal to your Proficiency Bonus. You can spend Luck Points to gain Advantage on D20 Tests or impose Disadvantage on attacks against you."
+    }
+  },
+  {
+    "name": "Noble",
+    "edition": "5.5e",
+    "description": "You were raised in a castle or estate of privilege. Your family may hold a title, and your name carries weight among the upper echelons of society.",
+    "skill_proficiencies": ["History", "Persuasion"],
+    "tool_proficiencies": ["Gaming Set (one of your choice)"],
+    "languages": [],
+    "equipment": "A set of fine clothes, a signet ring, a scroll of pedigree, a pouch containing 25 gp",
+    "feature": {
+      "name": "Origin Feat: Skilled",
+      "description": "You gain the Skilled feat. You gain proficiency in any combination of three skills or tools of your choice."
+    }
+  },
+  {
+    "name": "Sage",
+    "edition": "5.5e",
+    "description": "You spent your formative years studying the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you.",
+    "skill_proficiencies": ["Arcana", "History"],
+    "tool_proficiencies": ["Calligrapher's Supplies"],
+    "languages": [],
+    "equipment": "A bottle of black ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, a pouch containing 8 gp",
+    "feature": {
+      "name": "Origin Feat: Magic Initiate (Wizard)",
+      "description": "You gain the Magic Initiate feat with the Wizard spell list. You learn two cantrips and one 1st-level spell from the Wizard spell list."
+    }
+  },
+  {
+    "name": "Sailor",
+    "edition": "5.5e",
+    "description": "You spent years working aboard a ship, learning to navigate treacherous seas and weather fierce storms. The ocean was your home and the crew your family.",
+    "skill_proficiencies": ["Acrobatics", "Perception"],
+    "tool_proficiencies": ["Navigator's Tools"],
+    "languages": [],
+    "equipment": "A dagger, a rope (50 feet), a set of traveler's clothes, a pouch containing 10 gp",
+    "feature": {
+      "name": "Origin Feat: Tavern Brawler",
+      "description": "You gain the Tavern Brawler feat. You gain proficiency with improvised weapons. When you hit with an Unarmed Strike on your turn, you can deal 1d4 damage and push the target 5 feet. You can also reroll a damage die once per turn."
+    }
+  },
+  {
+    "name": "Scribe",
+    "edition": "5.5e",
+    "description": "You spent formative years recording and copying texts, working in a scriptorium, a government office, or a noble's court. Precision and attention to detail were your hallmarks.",
+    "skill_proficiencies": ["Investigation", "Perception"],
+    "tool_proficiencies": ["Calligrapher's Supplies"],
+    "languages": [],
+    "equipment": "A bottle of black ink, a quill, a small knife, a set of common clothes, a pouch containing 10 gp",
+    "feature": {
+      "name": "Origin Feat: Skilled",
+      "description": "You gain the Skilled feat. You gain proficiency in any combination of three skills or tools of your choice."
+    }
+  },
+  {
+    "name": "Soldier",
+    "edition": "5.5e",
+    "description": "You began training for war as soon as you reached adulthood and carried that training into battle. You might have been part of a standing national army, a mercenary company, or a local militia.",
+    "skill_proficiencies": ["Athletics", "Intimidation"],
+    "tool_proficiencies": ["Gaming Set (one of your choice)"],
+    "languages": [],
+    "equipment": "An insignia of rank, a trophy taken from a fallen enemy, a bone dice set, a set of common clothes, a pouch containing 14 gp",
+    "feature": {
+      "name": "Origin Feat: Savage Attacker",
+      "description": "You gain the Savage Attacker feat. Once per turn when you deal damage with a weapon, you can roll the weapon's damage dice twice and use either roll against the target."
+    }
+  },
+  {
+    "name": "Wayfarer",
+    "edition": "5.5e",
+    "description": "You grew up on the road, traveling with merchants, pilgrims, or wandering folk. You learned to fend for yourself and to find paths where others saw none.",
+    "skill_proficiencies": ["Insight", "Stealth"],
+    "tool_proficiencies": ["Thieves' Tools"],
+    "languages": [],
+    "equipment": "A bedroll, a mess kit, a set of traveler's clothes, a waterskin, a pouch containing 16 gp",
+    "feature": {
+      "name": "Origin Feat: Lucky",
+      "description": "You gain the Lucky feat. You have a number of Luck Points equal to your Proficiency Bonus. You can spend Luck Points to gain Advantage on D20 Tests or impose Disadvantage on attacks against you."
+    }
+  }
+]

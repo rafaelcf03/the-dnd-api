@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Alert",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "Always on the lookout for danger, you gain the following benefits.",
+    "benefits": [
+      "Initiative Proficiency. When you roll Initiative, you can add your Proficiency Bonus to the roll.",
+      "Initiative Swap. Immediately after you roll Initiative, you can swap your Initiative with one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition."
+    ]
+  },
+  {
+    "name": "Crafter",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You are adept at crafting things and bargaining with merchants, granting the following benefits.",
+    "benefits": [
+      "Tool Proficiency. You gain proficiency with three different Artisan's Tools of your choice.",
+      "Discount. Whenever you buy a nonmagical item, you receive a 20 percent discount on it.",
+      "Faster Crafting. When you craft an item using a tool with which you have proficiency, the required crafting time is reduced by 20 percent."
+    ]
+  },
+  {
+    "name": "Healer",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You have the training and intuition to administer first aid and other care effectively, granting the following benefits.",
+    "benefits": [
+      "Battle Medic. If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of you as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.",
+      "Healing Rerolls. Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll."
+    ]
+  },
+  {
+    "name": "Lucky",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You have inexplicable luck that can kick in at just the right moment, granting the following benefits.",
+    "benefits": [
+      "Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.",
+      "Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.",
+      "Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll."
+    ]
+  },
+  {
+    "name": "Magic Initiate",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You have learned the basics of a particular magical tradition. Choose one spell list: Cleric, Druid, or Wizard.",
+    "benefits": [
+      "Two Cantrips. You learn two cantrips of your choice from the chosen spell list.",
+      "Level 1 Spell. Choose one 1st-level spell from the chosen spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it that way when you finish a Long Rest. You can also cast it using any spell slots you have.",
+      "Spell Change. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.",
+      "Spellcasting Ability. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat)."
+    ]
+  },
+  {
+    "name": "Musician",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You are a practiced musician, granting you the following benefits.",
+    "benefits": [
+      "Instrument Training. You gain proficiency with three Musical Instruments of your choice.",
+      "Inspiring Song. As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect equals your Proficiency Bonus."
+    ]
+  },
+  {
+    "name": "Savage Attacker",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You have trained to deal particularly damaging strikes.",
+    "benefits": [
+      "Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target."
+    ]
+  },
+  {
+    "name": "Skilled",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You have exceptionally broad learning, granting the following benefits.",
+    "benefits": [
+      "You gain proficiency in any combination of three skills or tools of your choice."
+    ]
+  },
+  {
+    "name": "Tavern Brawler",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "Accustomed to brawling, you gain the following benefits.",
+    "benefits": [
+      "Enhanced Unarmed Strike. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.",
+      "Damage Rerolls. Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.",
+      "Shove. When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.",
+      "Furniture as Weapons. You can wield furniture as a Weapon, using the statistics of a Club for Small furniture or a Greatclub for Medium or larger furniture."
+    ]
+  },
+  {
+    "name": "Tough",
+    "edition": "5.5e",
+    "category": "Origin",
+    "prerequisite": "None",
+    "description": "You are more resilient than others.",
+    "benefits": [
+      "Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Your Hit Point maximum then increases by 2 whenever you gain a character level."
+    ]
+  },
+  {
+    "name": "Great Weapon Master",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Strength 13+",
+    "description": "You've learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes.",
+    "benefits": [
+      "Heavy Weapon Mastery. When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.",
+      "Hew. Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action."
+    ]
+  },
+  {
+    "name": "Sharpshooter",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Dexterity 13+",
+    "description": "You can make shots that others find impossible, granting the following benefits.",
+    "benefits": [
+      "Bypass Cover. Your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.",
+      "Firing in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your ranged attack rolls with weapons.",
+      "Long-Range Shooting. Attacking at long range doesn't impose Disadvantage on your ranged weapon attack rolls."
+    ]
+  },
+  {
+    "name": "Sentinel",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Strength or Dexterity 13+",
+    "description": "You have mastered techniques to take advantage of every drop in any enemy's guard, granting the following benefits.",
+    "benefits": [
+      "Guardian. Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.",
+      "Halt. When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn."
+    ]
+  },
+  {
+    "name": "Polearm Master",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Strength or Dexterity 13+",
+    "description": "You have trained extensively with pole weapons, granting the following benefits.",
+    "benefits": [
+      "Bonus Attack. When you take the Attack action and attack with a Quarterstaff, Spear, Trident, Halberd, Pike, or Glaive, you can also make a melee attack with the opposite end of the weapon as a Bonus Action. The damage die for this attack is a d4 and deals Bludgeoning damage.",
+      "Reactive Strike. While you are holding a Quarterstaff, Spear, Trident, Halberd, Pike, or Glaive, you can make an Opportunity Attack when a creature enters the reach you have with that weapon."
+    ]
+  },
+  {
+    "name": "War Caster",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Spellcasting or Pact Magic feature",
+    "description": "You have practiced casting spells in the midst of combat, granting the following benefits.",
+    "benefits": [
+      "Concentration. You have Advantage on Constitution saving throws that you make to maintain Concentration.",
+      "Reactive Spell. When a creature provokes an Opportunity Attack from you by leaving your reach, you can cast a spell at the creature instead of making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.",
+      "Somatic Components. You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands."
+    ]
+  },
+  {
+    "name": "Resilient",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+",
+    "description": "You have developed the resilience to better withstand certain dangers, granting the following benefits.",
+    "benefits": [
+      "Ability Score Increase. Increase one ability score of your choice by 1, to a maximum of 20.",
+      "Saving Throw Proficiency. You gain proficiency in saving throws using the chosen ability."
+    ]
+  },
+  {
+    "name": "Mobile",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Dexterity or Constitution 13+",
+    "description": "You are exceptionally speedy and agile, granting the following benefits.",
+    "benefits": [
+      "Speed Increase. Your Speed increases by 10 feet.",
+      "Dash Over Difficult Terrain. When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.",
+      "Agile Strikes. When you make a melee attack against a creature, you don't provoke Opportunity Attacks from that creature for the rest of the turn, whether you hit or not."
+    ]
+  },
+  {
+    "name": "Crossbow Expert",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Dexterity 13+",
+    "description": "Thanks to extensive practice with crossbows, you gain the following benefits.",
+    "benefits": [
+      "Ignore Loading. You ignore the Loading property of crossbows.",
+      "Firing in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.",
+      "Dual Wielding. When you make the extra attack of the Light weapon property, you can add your ability modifier to the damage of that attack if the other weapon is a crossbow with the Light property."
+    ]
+  },
+  {
+    "name": "Dual Wielder",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Strength or Dexterity 13+",
+    "description": "You have mastered fighting with two weapons, granting the following benefits.",
+    "benefits": [
+      "Enhanced Dual Wielding. When you take the Attack action and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action with a different weapon, which must also have the Light property. You can add your ability modifier to the damage of the Bonus Action attack.",
+      "Quick Draw. You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one."
+    ]
+  },
+  {
+    "name": "Elemental Adept",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Spellcasting or Pact Magic feature",
+    "description": "You have studied a damage type and learned techniques to overcome resistance to it.",
+    "benefits": [
+      "Choose one of the following damage types when you select this feat: Acid, Cold, Fire, Lightning, or Thunder.",
+      "Spells you cast ignore Resistance to damage of the chosen type.",
+      "When you roll damage for a spell that deals damage of the chosen type, you can treat any 1 on a damage die as a 2.",
+      "Repeatable. You can take this feat more than once, choosing a different damage type each time."
+    ]
+  },
+  {
+    "name": "Mage Slayer",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Strength or Dexterity 13+",
+    "description": "You have practiced techniques useful in melee combat against spellcasters, granting the following benefits.",
+    "benefits": [
+      "Concentration Breaker. When you damage a creature that is concentrating, it has Disadvantage on the saving throw it makes to maintain Concentration.",
+      "Guarded Mind. If you fail an Intelligence, Wisdom, or Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Long Rest."
+    ]
+  },
+  {
+    "name": "Inspiring Leader",
+    "edition": "5.5e",
+    "category": "General",
+    "prerequisite": "Level 4+; Wisdom or Charisma 13+",
+    "description": "You can spend 10 minutes inspiring your companions, bolstering their resolve to fight.",
+    "benefits": [
+      "When you finish a Short or Long Rest, you can give an inspiring speech. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can hear and understand you. Each chosen creature gains Temporary Hit Points equal to 2d4 plus your Proficiency Bonus."
+    ]
+  },
+  {
+    "name": "Archery",
+    "edition": "5.5e",
+    "category": "Fighting Style",
+    "prerequisite": "Level 1 Fighter or Level 2 Ranger",
+    "description": "You gain a +2 bonus to attack rolls you make with Ranged weapons.",
+    "benefits": [
+      "You gain a +2 bonus to attack rolls you make with Ranged weapons."
+    ]
+  },
+  {
+    "name": "Defense",
+    "edition": "5.5e",
+    "category": "Fighting Style",
+    "prerequisite": "Level 1 Fighter or Level 2 Ranger or Level 2 Paladin",
+    "description": "While you are wearing armor, you gain a +1 bonus to Armor Class.",
+    "benefits": [
+      "While you are wearing armor, you gain a +1 bonus to Armor Class."
+    ]
+  },
+  {
+    "name": "Dueling",
+    "edition": "5.5e",
+    "category": "Fighting Style",
+    "prerequisite": "Level 1 Fighter or Level 2 Ranger or Level 2 Paladin",
+    "description": "When you are wielding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.",
+    "benefits": [
+      "When you are wielding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+    ]
+  },
+  {
+    "name": "Great Weapon Fighting",
+    "edition": "5.5e",
+    "category": "Fighting Style",
+    "prerequisite": "Level 1 Fighter or Level 2 Paladin",
+    "description": "When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.",
+    "benefits": [
+      "When you roll damage for an attack with a Two-Handed or Versatile Melee weapon, you can treat any 1 or 2 on a damage die as a 3."
+    ]
+  },
+  {
+    "name": "Two-Weapon Fighting",
+    "edition": "5.5e",
+    "category": "Fighting Style",
+    "prerequisite": "Level 1 Fighter or Level 2 Ranger",
+    "description": "When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack.",
+    "benefits": [
+      "When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack."
+    ]
+  },
+  {
+    "name": "Boon of Combat Prowess",
+    "edition": "5.5e",
+    "category": "Epic Boon",
+    "prerequisite": "Level 19+",
+    "description": "You have honed your combat abilities to legendary proportions.",
+    "benefits": [
+      "Ability Score Increase. Increase one ability score of your choice by 1, to a maximum of 30.",
+      "Peerless Aim. When you miss with an attack roll, you can hit instead. Once you use this benefit, you can't use it again until the start of your next turn."
+    ]
+  },
+  {
+    "name": "Boon of Fate",
+    "edition": "5.5e",
+    "category": "Epic Boon",
+    "prerequisite": "Level 19+",
+    "description": "You can bend fate to your will.",
+    "benefits": [
+      "Ability Score Increase. Increase one ability score of your choice by 1, to a maximum of 30.",
+      "Improve Fate. When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the number rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short or Long Rest."
+    ]
+  },
+  {
+    "name": "Boon of Spell Recall",
+    "edition": "5.5e",
+    "category": "Epic Boon",
+    "prerequisite": "Level 19+; Spellcasting or Pact Magic feature",
+    "description": "You can recall spells you have already cast.",
+    "benefits": [
+      "Ability Score Increase. Increase one ability score of your choice by 1, to a maximum of 30.",
+      "Free Casting. Whenever you cast a spell with a spell slot of level 1 through 4, roll a d4. If the number you roll equals the level of the spell slot, the slot isn't expended."
+    ]
+  }
+]
